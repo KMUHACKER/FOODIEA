@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.env
+
+# Node / Expo
+**/node_modules/
+frontend-expo/.expo/
+*.keystore
+
+# Python cache / envs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ML artifacts / datasets
+*.pt
+*.pth
+*.onnx
+*.ckpt
+**/Data/
+**/image/
+
+# Local/generated content not needed for portfolio
+node-server/recipe_src/
+flask-server/code/yolov5/

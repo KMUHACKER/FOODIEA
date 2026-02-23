@@ -1,0 +1,1 @@
+torch>=1.7.0torchvision>=0.8.1opencv-python>=4.1.1PillownumpyPyYAML>=5.3.1matplotlib>=3.2.2seaborn>=0.11.0tqdm>=4.41.0scipy>=1.4.1tensorboard>=2.4.1pandas>=1.1.4

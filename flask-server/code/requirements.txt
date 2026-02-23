@@ -1,0 +1,1 @@
+blinker==1.9.0click==8.1.7Flask==3.1.0Flask-Cors==5.0.0itsdangerous==2.2.0Jinja2==3.1.4MarkupSafe==3.0.2Werkzeug==3.1.3
