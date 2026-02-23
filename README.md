@@ -13,7 +13,6 @@ React Native(Expo) 프론트엔드, Node.js 백엔드, Flask + YOLO 기반 AI �
 
 아래 이미지는 프로젝트 아키텍처 구조도입니다.
 
-> 이미지 파일을 `docs/architecture.png` 경로에 저장하면 README에서 바로 표시됩니다.
 
 ![Project Architecture](docs/architecture.png)
 
