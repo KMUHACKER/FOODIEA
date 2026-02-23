@@ -45,7 +45,7 @@ React Native(Expo) 프론트엔드, Node.js 백엔드, Flask + YOLO 기반 AI �
 .
 ├─ frontend-expo/        # React Native(Expo) 앱
 ├─ node-server/          # Node.js / Express 서버
-├─ flask-server/         # Flask + AI 관련 코드(포트폴리오용 코드만 포함)
+├─ flask-server/         # Flask + AI 관련 코드
 ├─ .gitignore
 └─ README.md
 ```
