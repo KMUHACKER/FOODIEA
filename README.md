@@ -1,4 +1,4 @@
-# AI Recipe Assistant 
+# AI Recipe Assistant (캡스톤 프로젝트 수상, SW 코드잇 챌린지 수상)
 
 React Native(Expo) 프론트엔드, Node.js 백엔드, Flask + YOLO 기반 AI 이미지 분석 서버, SQL(DB) 구성을 사용한 레시피 보조 애플리케이션 프로젝트입니다.
 
