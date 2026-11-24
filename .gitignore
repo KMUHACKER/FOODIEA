@@ -1,0 +1,41 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.env
+.env.*
+!.env.example
+.flaskenv
+
+# Node / Expo
+**/node_modules/
+frontend-expo/.expo/
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.key
+*.pem
+
+# Python cache / envs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ML artifacts / datasets
+*.pt
+*.pth
+*.onnx
+*.ckpt
+**/Data/
+**/image/
+
+# Local/generated content not needed for portfolio
+*.sql
+*.sql.gz
+node-server/recipe_src/
+flask-server/code/yolov5/
+flask-server/legacy/
